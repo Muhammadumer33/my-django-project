@@ -16,7 +16,7 @@ A backend API built with **Django 3.2** and **Django REST Framework** for managi
 
 ## 📁 Project Structure
 
----
+```
 companyapi/
 ├── api/ # Your core application logic (views, models, etc.)
 ├── companyapi/ # Django project settings
